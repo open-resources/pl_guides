@@ -17,6 +17,7 @@ parts:
 
 - caption: 3. Instructor Guide
   chapters:
+  - file: content/instructors/inheriting_plcourse
   - file: content/instructors/irene_intro
   - file: content/instructors/creating_assessment
   - file: content/instructors/creating_q
