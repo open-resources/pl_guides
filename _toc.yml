@@ -10,7 +10,8 @@ parts:
   chapters:
   - file: content/pl/intro
   - file: content/pl/intro_structure
-  - file: content/instructors/irene_intro
+  - file: content/pl/irene_intro
+  - file: content/pl/teaching_with_pl
 
 - caption: 2. Instructor Guide
   chapters:
