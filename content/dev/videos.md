@@ -1,6 +1,9 @@
 # Video Resources
 
+Coming soon...
 
+
+<!-- 
 - [Next Generation Problem Bank](https://vimeo.com/559780900)
 - [Introduction to Prairie Learn](https://vimeo.com/554493760)
 - [Authoring questions for Prairie Learn in Markdown](https://vimeo.com/554494220)
@@ -11,3 +14,4 @@
 - [Fully implemented numeric entry problem](https://www.youtube.com/watch?v=ujCbACEbizA&list=PLfhjdV-pwMOa7HeYtI4Qd9QRMPfv77Wam&index=4)
 - [Writing a symbolic PL problem](https://www.youtube.com/watch?v=P0sK1WS2p98&list=PLfhjdV-pwMOa7HeYtI4Qd9QRMPfv77Wam&index=5)
 - [Making a multi-part problem](https://www.youtube.com/watch?v=ftPXBcMCROc&list=PLfhjdV-pwMOa7HeYtI4Qd9QRMPfv77Wam&index=6)
+ -->

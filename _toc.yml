@@ -10,17 +10,13 @@ parts:
   chapters:
   - file: content/pl/intro
   - file: content/pl/intro_structure
-
-- caption: 2. Student Guide
-  chapters:
-  - file: content/students/faq
-
-- caption: 3. Instructor Guide
-  chapters:
-  - file: content/instructors/inheriting_plcourse
   - file: content/instructors/irene_intro
-  - file: content/instructors/creating_assessment
+
+- caption: 2. Instructor Guide
+  chapters:
   - file: content/instructors/creating_q
+  - file: content/instructors/creating_assessment
+  - file: content/instructors/inheriting_plcourse
   - file: content/instructors/faq
 
 # - caption: 4. Deployment Guide
@@ -34,6 +30,10 @@ parts:
 #   chapters:
 #   - file: content/dev/authoring
 #   - file: content/dev/anatomy
+
+- caption: 3. Student Guide
+  chapters:
+  - file: content/students/faq
 
 - caption: 6. My Wishlist
   chapters:
