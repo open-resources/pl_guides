@@ -1,4 +1,4 @@
-(prairielearn_structure)=
+(pl_structure)=
 # Structure of PrairieLearn
 
 Here is the basic structure of PrairieLearn:

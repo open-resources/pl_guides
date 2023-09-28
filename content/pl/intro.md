@@ -1,5 +1,5 @@
-(teaching_with_pl)=
-# Teaching with PrairieLearn
+(pl_tour)=
+# Tour of PrairieLearn
 
 Here's a quick tour of some question types on PrairieLearn:
 
