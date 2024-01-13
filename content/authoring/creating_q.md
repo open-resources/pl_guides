@@ -1,3 +1,4 @@
+(authoring)=
 # Creating a PrairieLearn question
 
 There are three important files created for the PrairieLearn platform:

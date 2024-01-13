@@ -29,7 +29,7 @@ parts:
   - file: content/authoring/randomizing_tips
   - file: content/authoring/randomization_framework
 
-- caption: 5. Local PrairieLearn question development with Docker
+- caption: 5. Local PrairieLearn course development (Docker)
   chapters:
   - file: content/pl_docker/preparation
   - file: content/pl_docker/opb_course_repo
