@@ -11,30 +11,40 @@ parts:
   - file: content/pl/intro
   - file: content/pl/intro_structure
   - file: content/pl/irene_intro
-  - file: content/pl/teaching_with_pl
 
-- caption: 2. Instructor Guide
+- caption: 2. Student Guide
   chapters:
-  - file: content/instructors/creating_q
-  - file: content/instructors/creating_assessment
-  - file: content/instructors/inheriting_plcourse
-  - file: content/instructors/faq
+  - file: content/students/faq
 
-# - caption: 4. Deployment Guide
-#   chapters:
-#   - file: content/pl_docker/preparation
-#   - file: content/pl_docker/opb_course_repo
-#   - file: content/pl_docker/docker_course_dev
-#   - file: content/pl_docker/custom_docker_images
+- caption: 3. Teaching with PrairieLearn
+  chapters:
+  - file: content/teaching/teaching_with_pl
+  - file: content/teaching/inheriting_plcourse
+  - file: content/teaching/creating_assessment
+  - file: content/teaching/faq
+
+- caption: 4. Creating New Questions
+  chapters:
+  - file: content/authoring/creating_q
+  - file: content/authoring/randomizing_tips
+  - file: content/authoring/randomization_framework
+
+- caption: 5. Local PrairieLearn question development with Docker
+  chapters:
+  - file: content/pl_docker/preparation
+  - file: content/pl_docker/opb_course_repo
+  - file: content/pl_docker/docker_course_dev
+  - file: content/pl_docker/custom_docker_images
+
+- caption: 5. External Autograders
+  chapters:
+  - file: content/external_autograders/getting_started
+
 
 # - caption: 5. Development Guide
 #   chapters:
 #   - file: content/dev/authoring
 #   - file: content/dev/anatomy
-
-- caption: 3. Student Guide
-  chapters:
-  - file: content/students/faq
 
 - caption: 6. My Wishlist
   chapters:

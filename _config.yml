@@ -27,7 +27,7 @@ html:
       </div>
 
 repository: 
-  url          : https://firas.moosvi.com/oer/pl_guides
+  url          : https://github.com/open-resources/pl_guides
   path_to_book : ""
   branch       : main
 

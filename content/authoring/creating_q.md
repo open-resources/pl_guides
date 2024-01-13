@@ -1,7 +1,5 @@
 # Creating a PrairieLearn question
 
-<img src="instructors_images/create_question.png">
-
 There are three important files created for the PrairieLearn platform:
 
 1. `info.json` : A `.json` file that contains metadata about the unique ID, tags, and whether it’s manually graded, auto-graded, or externally graded.
