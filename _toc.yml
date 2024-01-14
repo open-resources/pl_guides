@@ -10,7 +10,6 @@ parts:
   chapters:
   - file: content/pl/intro
   - file: content/pl/intro_structure
-  - file: content/pl/irene_intro
 
 - caption: 2. Student Guide
   chapters:
@@ -19,11 +18,12 @@ parts:
 - caption: 3. Teaching with PrairieLearn
   chapters:
   - file: content/teaching/teaching_with_pl
+  - file: content/teaching/irene_intro
   - file: content/teaching/inheriting_plcourse
   - file: content/teaching/creating_assessment
   - file: content/teaching/faq
 
-- caption: 4. Creating New Questions
+- caption: 4. Question Development
   chapters:
   - file: content/authoring/creating_q
   - file: content/authoring/randomizing_tips
@@ -36,7 +36,7 @@ parts:
   - file: content/pl_docker/docker_course_dev
   - file: content/pl_docker/custom_docker_images
 
-- caption: 5. External Autograders
+- caption: 6. External Autograders
   chapters:
   - file: content/external_autograders/getting_started
 
