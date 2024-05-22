@@ -40,6 +40,10 @@ parts:
   chapters:
   - file: content/external_autograders/getting_started
 
+- caption: 7. Markdown authoring
+  chapters:
+  - file: content/opb/intro
+
 
 # - caption: 5. Development Guide
 #   chapters:
