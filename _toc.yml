@@ -40,6 +40,10 @@ parts:
   chapters:
   - file: content/external_autograders/getting_started
 
+- caption: Course Specific Training
+  chapters:
+  - file: content/course_specific/cpsc210
+
 - caption: 7. Markdown authoring
   chapters:
   - file: content/opb/intro
