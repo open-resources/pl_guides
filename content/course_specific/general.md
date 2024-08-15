@@ -14,16 +14,16 @@ We have started developing some resources for this since it is a fairly involved
 
 ### Suggested Order of the Training
 
-- 1. "[What is PrairieLearn](https://firas.moosvi.com/oer/pl_guides/content/pl/intro.html)" Section
+1. "[What is PrairieLearn](https://firas.moosvi.com/oer/pl_guides/content/pl/intro.html)" Section
 	- Tour of PrairieLearn (video: ~30 mins - watch at 1.5x speed)
 	- Structure of PrairieLearn (video: ~3.5 mins)
 
-- 1. "[Question Development](https://firas.moosvi.com/oer/pl_guides/content/authoring/creating_q.html)" Section
+1. "[Question Development](https://firas.moosvi.com/oer/pl_guides/content/authoring/creating_q.html)" Section
 	- Creating a PrairieLearn question (video: ~15 mins)
 	- Tips for Randomizing Questions (reading)
 	- Randomization Framework (reading)
 
-- 1. "[Local PrairieLearn course development (Docker)](https://firas.moosvi.com/oer/pl_guides/content/pl_docker/preparation.html)" Section
+1. "[Local PrairieLearn course development (Docker)](https://firas.moosvi.com/oer/pl_guides/content/pl_docker/preparation.html)" Section
 	- Preparation (reading)
 	- Forking a PrairieLearn course for local development (reading)
 	- PrairieLearn Course Development on Docker (reading)
