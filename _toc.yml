@@ -42,7 +42,9 @@ parts:
 
 - caption: Course Specific Training
   chapters:
+  - file: content/course_specific/general
   - file: content/course_specific/cpsc210
+  - file: content/course_specific/cpsc330
 
 - caption: 7. Markdown authoring
   chapters:
