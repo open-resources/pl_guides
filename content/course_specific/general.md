@@ -35,6 +35,8 @@ Ideally you'd finish up to here before our first meeting together.
 
 ## Next Steps
 
+Once you're done, you can move on to the items below.
+
 ### Look at some Documentation
 
 - [pl-question-panel element](https://prairielearn.readthedocs.io/en/latest/elements/#pl-question-panel-element)
