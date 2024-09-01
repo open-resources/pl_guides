@@ -188,6 +188,11 @@ You're ready to develop questions for the `OPB`!
 
 For development of questions that require an autograder, you will need to set up a local autograder container as well. 
 
+```{important}
+Follow this section for any process that requires usage of 'Open Workspace'. Some questions, such as the example below, contain built-in notebooks. To view these questions, follow the docker initialization command in this section instead of the command described in step 8.
+```
+<img src="pl_images/open_workspace.png">
+
 ### Important! (Windows Only)
 
 If you are using Windows, the following commands will need to be executed in Windows Subsystem for Linux (WSL). You can do this two ways:
