@@ -145,6 +145,10 @@ A guide to using LaTeX for equations, formulas, and variables.
 ::::
 -->
 
+## Important Resources
+
+- [Comprehensive PrairieLearn Workshop Video](https://mediaspace.illinois.edu/media/t/1_l4dh8cwm/170964131)
+
 ## Attributions
 
 Image Attributions:
